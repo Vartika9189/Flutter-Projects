@@ -4,6 +4,7 @@
 * Tran Minh Quang - s3757281
 * Nguyen Huu Ngoc Duc - s3680598
 * Mai Duc Minh - s3681447
+* Vartika Singh
 ## Introduction
 The Car Booking Application for Android OS is for the final assignment of the course COSC2657 - Android Development. 
 The application is a lite version of Grab application focused on the booking car function. The app have two type of users: customer and driver. 
