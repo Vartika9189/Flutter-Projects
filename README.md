@@ -18,11 +18,13 @@ While customer can create a booking to request a car, driver is able to accept t
     * Customers can choose their types of vehicles they want to book
     * Customers can see the surrounding vehicles
     * Customers can choose pick-up location
+    * Customers can update the details
     * Customers can choose the drop-off location
     * Customers can see the price
     * Customers can create a booking
     * Customers can update a booking
     * Customers can cancel a booking
+    
     * Customers can see the booking history
     * Customer receive notification when the driver in the pick up point
 * The application track the user location in the background 
